@@ -1,4 +1,4 @@
-# Hey, I’m Mayank 👋
+# Hey, I’m Dhruv Aka Devmayank 👋
 
 I’m a 16 y/o creator from India building AI-powered projects like **Jarvis AI**, **HACKER TERMINAL**, and more — all using AI tools, no formal coding.  
 Focused on AI, Web3, airdrops, and crypto innovations.  
