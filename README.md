@@ -7,11 +7,18 @@
 
 ---
 
+## 📈 Stats & Insights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmayank-official&show_icons=true&locale=en&layout=compact)
+
+![Profile views](https://komarev.com/ghpvc/?username=Devmayank-official&label=Profile%20views&color=0e75b6&style=flat) 
+
+
 ## 🛠️ Skills & Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web2APK-0D1117?style=for-the-badge&logo=android&logoColor=green"/>
@@ -27,15 +34,6 @@
 | 🤖 Jarvis AI V2.0     | Voice assistant with reminders, calculator, and command terminal | HTML, CSS, JS, TTS |
 | 🖥️ Hacker Terminal     | Green-glow simulation terminal with fake hacking animations    | HTML, CSS, JS          |
 | 🧊 Frozen (Sim)        | Badge + points-based offline reward simulator                  | HTML, CSS, JS          |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devmayank-official&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=Devmayank-official&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
